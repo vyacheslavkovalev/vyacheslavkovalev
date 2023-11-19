@@ -4,7 +4,7 @@
 <h3 align="center">ML Engineer | Data Scientist</h3>
 
 <h3 align="left">About me:</h3>
-<align="left">A diligent and highly data-oriented specialist in engineering with experience in Technology Department international company. Professional understanding is greatest thing which enables me to permanent streamline and make success.</>
+<align="left">Demand Planning Systems Developer at Carsberg Group. A diligent and highly data-oriented specialist in engineering with experience in Technology Department international company. Professional understanding is greatest thing which enables me to permanent streamline and make success.</>
 
 <h3 align="left">Core competencies:</h3>
 
