@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
 <h1 align="center">Hi 👋, I'm Slava</h1>
-<h3 align="center">Head of AI Transformation in Sberbank</h3>
+<h3 align="center">Head of AI Transformation in Sber</h3>
 
 <h3 align="left">About me:</h3>
 <align="left">Demand Planning Systems Developer at Carsberg Group. A diligent and highly data-oriented specialist in engineering with experience in Technology Department international company. Professional understanding is greatest thing which enables me to permanent streamline and make success.</>
